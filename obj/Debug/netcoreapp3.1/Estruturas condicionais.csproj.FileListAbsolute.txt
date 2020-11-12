@@ -1,0 +1,13 @@
+C:\Users\fic\Documents\Estruturas condicionais\bin\Debug\netcoreapp3.1\Estruturas condicionais.exe
+C:\Users\fic\Documents\Estruturas condicionais\bin\Debug\netcoreapp3.1\Estruturas condicionais.deps.json
+C:\Users\fic\Documents\Estruturas condicionais\bin\Debug\netcoreapp3.1\Estruturas condicionais.runtimeconfig.json
+C:\Users\fic\Documents\Estruturas condicionais\bin\Debug\netcoreapp3.1\Estruturas condicionais.runtimeconfig.dev.json
+C:\Users\fic\Documents\Estruturas condicionais\bin\Debug\netcoreapp3.1\Estruturas condicionais.dll
+C:\Users\fic\Documents\Estruturas condicionais\bin\Debug\netcoreapp3.1\Estruturas condicionais.pdb
+C:\Users\fic\Documents\Estruturas condicionais\obj\Debug\netcoreapp3.1\Estruturas condicionais.csprojAssemblyReference.cache
+C:\Users\fic\Documents\Estruturas condicionais\obj\Debug\netcoreapp3.1\Estruturas condicionais.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\Estruturas condicionais\obj\Debug\netcoreapp3.1\Estruturas condicionais.AssemblyInfo.cs
+C:\Users\fic\Documents\Estruturas condicionais\obj\Debug\netcoreapp3.1\Estruturas condicionais.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\Estruturas condicionais\obj\Debug\netcoreapp3.1\Estruturas condicionais.dll
+C:\Users\fic\Documents\Estruturas condicionais\obj\Debug\netcoreapp3.1\Estruturas condicionais.pdb
+C:\Users\fic\Documents\Estruturas condicionais\obj\Debug\netcoreapp3.1\Estruturas condicionais.genruntimeconfig.cache
