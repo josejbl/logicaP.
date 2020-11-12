@@ -1,2 +1,2 @@
-# logicaP.
+Estruturas condicionais
 lógica de programação
